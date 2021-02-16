@@ -8,7 +8,7 @@ FOR TERMUX USER.
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/Nurutomo/wabot-aq
+> git clone https://github.com/SERBUDAK/wabot-aq
 > cd wabot-aq
 > npm install
 
@@ -22,7 +22,8 @@ Download And Install Git Click Here
 Download And Install NodeJS Click Here
 Download And Install FFMPEG Click Here (don't forget to path)
 Download And Install ImageMagick Click Here (if nulis want work, checklist columns 1,2,3,5,6)
-> git clone https://github.com/Nurutomo/wabot-aq
+> git clone https://github.com/SERBUDAK/wabot-aq
+
 > cd wabot-aq
 > npm install
 
