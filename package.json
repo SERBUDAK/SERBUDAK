@@ -19,15 +19,15 @@
     "whatsapp",
     "js-whatsapp"
   ],
-  "homepage": "https://github.com/SERBUDAK/wabot-aq",
+  "homepage": "https://github.com/SERBUDAK/SERBUDAK",
   "author": {
     "name": "SERBUDAK"
   },
   "repository": {
-    "url": "https://github.com/SERBUDAK/wabot-aq.git"
+    "url": "https://github.com/SERBUDAK/SERBUDAK.git"
   },
   "bugs": {
-    "url": "https://github.com/SETBUDAK/wabot-aq/issues"
+    "url": "https://github.com/SETBUDAK/SERBUDAK/issues"
   },
   "license": "GPL3",
   "dependencies": {
